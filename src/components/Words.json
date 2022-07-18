@@ -1,0 +1,486 @@
+[
+ {
+   "word": "AA",
+   "description": "Rough jagged lava found in Hawaiian volcanoes."
+ },
+ {
+   "word": "AB",
+   "description": "An abdominal muscle."
+ },
+ {
+   "word": "AD",
+   "description": "A short form of advertisement."
+ },
+ {
+   "word": "AE",
+   "description": "One."
+ },
+ {
+   "word": "AG",
+   "description": "Agriculture"
+ },
+ {
+   "word": "AH",
+   "description": "To say \"Ah\" for joy. Ex: \"Ah Ha!\"."
+ },
+ {
+   "word": "AI",
+   "description": "A three-toed South American sloth."
+ },
+ {
+   "word": "AL",
+   "description": "An East Indian tree."
+ },
+ {
+   "word": "AM",
+   "description": "A present tense of the verb be."
+ },
+ {
+   "word": "AN",
+   "description": "A form of the indefinite article."
+ },
+ {
+   "word": "AR",
+   "description": "The letter \"R\". (seriously)"
+ },
+ {
+   "word": "AS",
+   "description": "To that extent."
+ },
+ {
+   "word": "AT",
+   "description": "In the position of."
+ },
+ {
+   "word": "AW",
+   "description": "Exclamation of disappointment."
+ },
+ {
+   "word": "AX",
+   "description": "To work on with an axe."
+ },
+ {
+   "word": "AY",
+   "description": "An affirmative vote "
+ },
+ {
+   "word": "BA",
+   "description": "The eternal spirit in Egyptian mythology."
+ },
+ {
+   "word": "BE",
+   "description": "To exist."
+ },
+ {
+   "word": "BI",
+   "description": "A bisexual person."
+ },
+ {
+   "word": "BO",
+   "description": "Slang for friend."
+ },
+ {
+   "word": "BY",
+   "description": "Near; A side issue."
+ },
+ {
+   "word": "DA",
+   "description": "A Burmese heavy knife."
+ },
+ {
+   "word": "DI",
+   "description": "A plural of deus (a god)."
+ },
+ {
+   "word": "DO",
+   "description": "To achieve; A celebration. "
+ },
+ {
+   "word": "EA",
+   "description": "A river."
+ },
+ {
+   "word": "ED",
+   "description": "Education."
+ },
+ {
+   "word": "EE",
+   "description": "Scottish dialect for eye. "
+ },
+ {
+   "word": "EF",
+   "description": "The letter \"F\". (seriously)"
+ },
+ {
+   "word": "EH",
+   "description": "To say \"Eh\" for surprise."
+ },
+ {
+   "word": "EL",
+   "description": "An elevated railway."
+ },
+ {
+   "word": "EM",
+   "description": "A printer's measure."
+ },
+ {
+   "word": "EN",
+   "description": "Another printer's measure. (half of an EM)"
+ },
+ {
+   "word": "ER",
+   "description": "An expression of hesitation."
+ },
+ {
+   "word": "ES",
+   "description": "The letter \"S\". "
+ },
+ {
+   "word": "ET",
+   "description": "A past tense of eat."
+ },
+ {
+   "word": "EX",
+   "description": "The letter \"X\". (seriously)"
+ },
+ {
+   "word": "FA",
+   "description": "A musical note."
+ },
+ {
+   "word": "FE",
+   "description": "A Hebrew letter."
+ },
+ {
+   "word": "FY",
+   "description": "An interjection expressing disgust."
+ },
+ {
+   "word": "GI",
+   "description": "A judo or karate costume."
+ },
+ {
+   "word": "GO",
+   "description": "To depart; a Japanese board game. "
+ },
+ {
+   "word": "GU",
+   "description": "A simple violin used in Shetland."
+ },
+ {
+   "word": "HA",
+   "description": "An exclamation of surprise."
+ },
+ {
+   "word": "HE",
+   "description": "A male."
+ },
+ {
+   "word": "HI",
+   "description": "An exclamation of greeting."
+ },
+ {
+   "word": "HM",
+   "description": "Interjection  expressing thoughtful consideration."
+ },
+ {
+   "word": "HO",
+   "description": "Interjection  calling attention."
+ },
+ {
+   "word": "ID",
+   "description": "Part of the psyche."
+ },
+ {
+   "word": "IF",
+   "description": "A condition."
+ },
+ {
+   "word": "IN",
+   "description": "To harvest."
+ },
+ {
+   "word": "IO",
+   "description": "A cry of joy."
+ },
+ {
+   "word": "IS",
+   "description": "A present tense of be."
+ },
+ {
+   "word": "IT",
+   "description": "Impersonal pronoun."
+ },
+ {
+   "word": "JA",
+   "description": "Yes."
+ },
+ {
+   "word": "JO",
+   "description": "A sweetheart. "
+ },
+ {
+   "word": "KA",
+   "description": "To serve."
+ },
+ {
+   "word": "KI",
+   "description": "The spirit of Japanese martial art. Also, see QI."
+ },
+ {
+   "word": "KO",
+   "description": "A Maori digging stick."
+ },
+ {
+   "word": "KY",
+   "description": "Cows."
+ },
+ {
+   "word": "LA",
+   "description": "A musical note."
+ },
+ {
+   "word": "LI",
+   "description": "A Chinese distance unit."
+ },
+ {
+   "word": "LO",
+   "description": "Look, behold."
+ },
+ {
+   "word": "MA",
+   "description": "Mother."
+ },
+ {
+   "word": "ME",
+   "description": "A musical note."
+ },
+ {
+   "word": "MI",
+   "description": "Also a musical note (same as ME)."
+ },
+ {
+   "word": "MM",
+   "description": "Exclamation of satisfaction."
+ },
+ {
+   "word": "MO",
+   "description": "A moment."
+ },
+ {
+   "word": "MU",
+   "description": "A Greek letter."
+ },
+ {
+   "word": "MY",
+   "description": "Belonging to me."
+ },
+ {
+   "word": "NA",
+   "description": "Interjection  of disbelief."
+ },
+ {
+   "word": "NE",
+   "description": "Archaic form of not."
+ },
+ {
+   "word": "NO",
+   "description": "A no vote."
+ },
+ {
+   "word": "NU",
+   "description": "A Greek letter."
+ },
+ {
+   "word": "NY",
+   "description": "To approach.  "
+ },
+ {
+   "word": "OB",
+   "description": "An objection."
+ },
+ {
+   "word": "OD",
+   "description": "A mystic universal force."
+ },
+ {
+   "word": "OE",
+   "description": "A grandchild in Scotland (also OY)"
+ },
+ {
+   "word": "OF",
+   "description": "Belonging to."
+ },
+ {
+   "word": "OH",
+   "description": "To exclaim \"Oh\" for surprise."
+ },
+ {
+   "word": "OI",
+   "description": "Interjection  calling attention."
+ },
+ {
+   "word": "OM",
+   "description": "A syllable intoned as part of a mantra."
+ },
+ {
+   "word": "ON",
+   "description": "To go on."
+ },
+ {
+   "word": "OO",
+   "description": "Wool."
+ },
+ {
+   "word": "OP",
+   "description": "An abstract art style."
+ },
+ {
+   "word": "OR",
+   "description": "The heraldic color gold."
+ },
+ {
+   "word": "OS",
+   "description": "A bone."
+ },
+ {
+   "word": "OU",
+   "description": "A bloke."
+ },
+ {
+   "word": "OW",
+   "description": "Interjection  expressing pain."
+ },
+ {
+   "word": "OX",
+   "description": "A mammal with hooves. "
+ },
+ {
+   "word": "OY",
+   "description": "Same as OE, above."
+ },
+ {
+   "word": "PA",
+   "description": "Father."
+ },
+ {
+   "word": "PE",
+   "description": "A Hebrew letter -- Can be extended with \"H\"."
+ },
+ {
+   "word": "PI",
+   "description": "To jumble or disorder."
+ },
+ {
+   "word": "PO",
+   "description": "A chamber pot."
+ },
+ {
+   "word": "QI",
+   "description": "A Chinese life force."
+ },
+ {
+   "word": "RE",
+   "description": "A musical note."
+ },
+ {
+   "word": "SH",
+   "description": "Interjection  requesting silence."
+ },
+ {
+   "word": "SI",
+   "description": "A musical note."
+ },
+ {
+   "word": "SO",
+   "description": "A musical note (also SOH)."
+ },
+ {
+   "word": "ST",
+   "description": "An exclamation of impatience."
+ },
+ {
+   "word": "TA",
+   "description": "Thanks."
+ },
+ {
+   "word": "TE",
+   "description": "A musical note."
+ },
+ {
+   "word": "TI",
+   "description": "A small tree."
+ },
+ {
+   "word": "TO",
+   "description": "As far as."
+ },
+ {
+   "word": "UG",
+   "description": "To cause hatred."
+ },
+ {
+   "word": "UH",
+   "description": "Interjection  expressing disbelief."
+ },
+ {
+   "word": "UM",
+   "description": "Interjection  of hesitation."
+ },
+ {
+   "word": "UN",
+   "description": "One."
+ },
+ {
+   "word": "UP",
+   "description": "To increase."
+ },
+ {
+   "word": "UR",
+   "description": "Interjection  expressing hesitation."
+ },
+ {
+   "word": "US",
+   "description": "A third person pronoun."
+ },
+ {
+   "word": "WE",
+   "description": "A third person pronoun."
+ },
+ {
+   "word": "WO",
+   "description": "A curse."
+ },
+ {
+   "word": "XI",
+   "description": "A Greek letter."
+ },
+ {
+   "word": "XU",
+   "description": "A Vietnamese coin ."
+ },
+ {
+   "word": "YA",
+   "description": "You."
+ },
+ {
+   "word": "YE",
+   "description": "You."
+ },
+ {
+   "word": "YO",
+   "description": "A call for effort."
+ },
+ {
+   "word": "YU",
+   "description": "Precious jade."
+ },
+ {
+   "word": "ZA",
+   "description": "Contraction of \"pizza\"."
+ },
+ {
+   "word": "ZO",
+   "description": "A Himalayan cross between a yak and a cow (also DZO, DSO, ZHO, DZHO)."
+ }
+]
