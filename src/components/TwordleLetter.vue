@@ -30,9 +30,16 @@ export default{
 </script>
 
 <template>
-<div class="inline-block w-1/2 h-full p-0.5">
+<div class="inline-block w-full h-full  p-0.5 ">
     <div class="transition-all w-full h-full border relative rounded-md border-gray-900" :class="bg">
         <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-2xl font-bold w-min">{{value}}</div>
     </div>
 </div>
 </template>
+
+<style scoped>
+.button-max{
+    max-width: 5rem;
+    max-height: 5rem;
+}
+</style>

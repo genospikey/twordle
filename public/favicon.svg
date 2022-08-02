@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   role="img"
+   class="iconify iconify--logos"
+   width="31.88"
+   height="32"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 256 257"
+   version="1.1"
+   id="svg4564"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4566"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="19.069786"
+     inkscape:cx="21.94571"
+     inkscape:cy="15.83657"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4564" />
+  <defs
+     id="defs4558">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19294">
+      <stop
+         style="stop-color:#71717a;stop-opacity:1;"
+         offset="0"
+         id="stop19290" />
+      <stop
+         style="stop-color:#25252b;stop-opacity:1;"
+         offset="1"
+         id="stop19292" />
+    </linearGradient>
+    <linearGradient
+       id="IconifyId1813088fe1fbc01fb466"
+       x1="-.828%"
+       x2="57.636%"
+       y1="7.652%"
+       y2="78.411%">
+      <stop
+         offset="0%"
+         stop-color="#41D1FF"
+         id="stop4546" />
+      <stop
+         offset="100%"
+         stop-color="#BD34FE"
+         id="stop4548" />
+    </linearGradient>
+    <linearGradient
+       id="IconifyId1813088fe1fbc01fb467"
+       x1="188.00649"
+       x2="199.00609"
+       y1="3.5533929"
+       y2="141.10861"
+       gradientTransform="matrix(1.0600493,0,0,1.2412156,-88.7182,17.272297)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFEA83"
+         id="stop4551" />
+      <stop
+         offset="8.333%"
+         stop-color="#FFDD35"
+         id="stop4553" />
+      <stop
+         offset="100%"
+         stop-color="#FFA800"
+         id="stop4555" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19294"
+       id="linearGradient19296"
+       x1="-0.43927214"
+       y1="128.87206"
+       x2="256.46252"
+       y2="128.87206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.91884586,0,0,0.92074498,10.38868,10.003178)" />
+  </defs>
+  <rect
+     style="opacity:0.924;fill:url(#linearGradient19296);fill-opacity:1;stroke:#000000;stroke-width:18.5726;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect15804"
+     width="236.05313"
+     height="237.3166"
+     x="9.9850559"
+     y="10.00318" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:294.091px;line-height:0.35;font-family:sans-serif;letter-spacing:-30.367px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.34606;stroke-dasharray:none"
+     x="11.352346"
+     y="236.07426"
+     id="text1519"
+     transform="scale(1.0062794,0.99375978)"><tspan
+       sodipodi:role="line"
+       style="stroke-width:7.34606;stroke-dasharray:none"
+       x="11.352346"
+       y="236.07426"
+       dx="0 0 0 0"
+       id="tspan8007">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:294.091px;line-height:0.35;font-family:sans-serif;letter-spacing:-30.367px;word-spacing:0px;fill:#505050;fill-opacity:1;stroke:none;stroke-width:7.34606;stroke-dasharray:none"
+     x="30.807358"
+     y="236.07707"
+     id="text1519-4"
+     transform="scale(1.0062794,0.99375978)"><tspan
+       sodipodi:role="line"
+       style="fill:#505050;fill-opacity:1;stroke-width:7.34606;stroke-dasharray:none"
+       x="30.807358"
+       y="236.07707"
+       dx="0 0 0 0"
+       id="tspan8007-0">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:294.091px;line-height:0.35;font-family:sans-serif;letter-spacing:-30.367px;word-spacing:0px;fill:#838383;fill-opacity:1;stroke:none;stroke-width:7.34606;stroke-dasharray:none"
+     x="56.984589"
+     y="236.06636"
+     id="text1519-4-3"
+     transform="scale(1.0062794,0.99375978)"><tspan
+       sodipodi:role="line"
+       style="fill:#838383;fill-opacity:1;stroke-width:7.34606;stroke-dasharray:none"
+       x="56.984589"
+       y="236.06636"
+       dx="0 0 0 0"
+       id="tspan8007-0-8">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:294.091px;line-height:0.35;font-family:sans-serif;letter-spacing:-30.367px;word-spacing:0px;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:7.34606;stroke-dasharray:none"
+     x="76.264809"
+     y="236.11133"
+     id="text1519-4-3-8"
+     transform="scale(1.0062794,0.99375978)"><tspan
+       sodipodi:role="line"
+       style="fill:#bbbbbb;fill-opacity:1;stroke-width:7.34606;stroke-dasharray:none"
+       x="76.264809"
+       y="236.11133"
+       dx="0 0 0 0"
+       id="tspan8007-0-8-7">2</tspan></text>
+</svg>

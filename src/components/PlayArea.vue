@@ -156,7 +156,7 @@ export default{
 </script>
 
 <template>
-<div class="relative w-full h-screen bg-gray-600">
+<div class="w-full h-screen bg-gray-600">
     <Transition>
         <div class="z-50 w-96 border p-2 bg-white absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded drop-shadow-lg" v-if="showDef">
             <div class="text-sm">The word is:</div>
@@ -167,21 +167,18 @@ export default{
             <div class="text-xs">Press any key to contine.</div>
         </div>
     </Transition>
-    <div class="bg-black w-full h-auto">
-    <span class="text-red-400">TWOrdle - IT BE AH</span>
-    </div>
   
-    <div class="mx-auto h-full">
+    <div class="absolute top-0 w-full h-3/5">
     
         <Header />
 
-        <div class="game mx-auto flex">
+        <div class="h-full w-full game mx-auto p-0 flex">
             <div class="inline-block w-1/2 h-full mx-5">    
                 <div class="mx-auto w-full h-1/5 flex">
                     <TwordleLetter :value="gameData[0][0]" :state="wordStyle[0][0]"/>
                     <TwordleLetter :value="gameData[0][1]" :state="wordStyle[0][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 ">
+                <div class="mx-auto w-full h-1/5 flex">
                     <TwordleLetter :value="gameData[1][0]" :state="wordStyle[1][0]"/>
                     <TwordleLetter :value="gameData[1][1]" :state="wordStyle[1][1]"/>
                 </div>
@@ -222,20 +219,16 @@ export default{
             </div>
         </div>
     </div>
-    <div class="absolute bottom-20 w-full h-1/4">
+    <div class="w-full h-1/5 absolute bottom-0">
         <Keyboard @pressed="handleInput($event)" />
     </div>
 </div>
 </template>
 
 <style>
-.butts{
-    height: 99vh;
-}
+
 .game{
-    width:100%;
     max-width:315px;
-    height:100%;
     max-height:300px;
 }
 .v-enter-active,

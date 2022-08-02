@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# TWOrdle
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a word game, what has two letters and all that. Guess the word and win... absolutely nothing. Feel free to use any of the random components in here!
 
-## Recommended IDE Setup
+## Trello
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+I made a trello board cause i was bored. Linked here: [Trello Board](https://trello.com/b/6I6kGQEj/twordle)
