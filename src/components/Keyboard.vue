@@ -30,7 +30,6 @@ export default{
         console.log(s)
 
         return {
-            layout: l,
             state: s,
         }
     },

@@ -167,52 +167,51 @@ export default{
             <div class="text-xs">Press any key to contine.</div>
         </div>
     </Transition>
-  
-    <div class="absolute top-0 w-full h-3/5">
+    <div class="absolute inline-flex flex-col justify-center top-0 w-full h-4/5 py-10">
     
         <Header />
 
-        <div class="h-full w-full game mx-auto p-0 flex">
-            <div class="inline-block w-1/2 h-full mx-5">    
-                <div class="mx-auto w-full h-1/5 flex">
+        <div class="h-full w-full mx-auto p-0 flex butts">
+            <div class="inline-flex flex-col w-1/2 h-full">    
+                <div class="ml-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[0][0]" :state="wordStyle[0][0]"/>
                     <TwordleLetter :value="gameData[0][1]" :state="wordStyle[0][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="ml-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[1][0]" :state="wordStyle[1][0]"/>
                     <TwordleLetter :value="gameData[1][1]" :state="wordStyle[1][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="ml-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[2][0]" :state="wordStyle[2][0]"/>
                     <TwordleLetter :value="gameData[2][1]" :state="wordStyle[2][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="ml-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[3][0]" :state="wordStyle[3][0]"/>
                     <TwordleLetter :value="gameData[3][1]" :state="wordStyle[3][1]"/> 
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="ml-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[4][0]" :state="wordStyle[4][0]"/>
                     <TwordleLetter :value="gameData[4][1]" :state="wordStyle[4][1]"/> 
                 </div>
             </div>
-            <div class="inline-block w-1/2 h-full  mx-5">    
-                <div class="mx-auto w-full h-1/5 flex">
+            <div class="inline-flex flex-col w-1/2 h-full">    
+                <div class="mr-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[5][0]" :state="wordStyle[5][0]"/>
                     <TwordleLetter :value="gameData[5][1]" :state="wordStyle[5][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="mr-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[6][0]" :state="wordStyle[6][0]"/>
                     <TwordleLetter :value="gameData[6][1]" :state="wordStyle[6][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="mr-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[7][0]" :state="wordStyle[7][0]"/>
                     <TwordleLetter :value="gameData[7][1]" :state="wordStyle[7][1]"/>
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="mr-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[8][0]" :state="wordStyle[8][0]"/>
                     <TwordleLetter :value="gameData[8][1]" :state="wordStyle[8][1]"/> 
                 </div>
-                <div class="mx-auto w-full h-1/5 flex">
+                <div class="mr-auto w-full h-1/5 flex justify-center items-center rowmax">
                     <TwordleLetter :value="gameData[9][0]" :state="wordStyle[9][0]"/>
                     <TwordleLetter :value="gameData[9][1]" :state="wordStyle[9][1]"/> 
                 </div>
@@ -222,14 +221,25 @@ export default{
     <div class="w-full h-1/5 absolute bottom-0">
         <Keyboard @pressed="handleInput($event)" />
     </div>
+    <div class="absolute top-0 w-full h-fit bg-black text-gray-300 p-1">
+        <div class="inline">Twordle - IT BE AH</div>
+        <div class="absolute right-1 inline-flex">
+            <button><img class="h-5 w-5 mx-1" src="/public/help.svg"/></button>
+            <button><img class="h-5 w-5 mx-1" src="/public/stats.svg"/></button>
+            <button><img class="h-5 w-5 mx-1" src="/public/gear.svg"/></button>
+        </div>
+    </div>
 </div>
 </template>
 
-<style>
+<style scoped>
 
-.game{
-    max-width:315px;
-    max-height:300px;
+.rowmax{
+    max-width:200px;
+    max-height:80px;
+}
+.butts{
+    max-height: 420px;
 }
 .v-enter-active,
 .v-leave-active {
